@@ -1,0 +1,5 @@
+{
+  "name": "Ink & Image",
+  "description": "An AI-powered creative writing companion that transforms your images into immersive stories with expressive narration.",
+  "requestFramePermissions": ["microphone"]
+}
